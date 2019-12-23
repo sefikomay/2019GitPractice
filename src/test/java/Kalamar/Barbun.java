@@ -8,12 +8,6 @@ public class Barbun {
         System.out.println("hamsi");
 
 
-        System.out.println("blue");
-
-        System.out.println("black");
-
-
-        System.out.println("white");
 
     }
 }
