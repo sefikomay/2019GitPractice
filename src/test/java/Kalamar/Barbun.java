@@ -7,12 +7,6 @@ public class Barbun {
 
         System.out.println("hamsi");
         
-        portakal 
-            
-            mandalina 
-            
-            
-            ayva
 
 
 
