@@ -12,5 +12,8 @@ public class Barbun {
 
         System.out.println("black");
 
+
+        System.out.println("white");
+
     }
 }
