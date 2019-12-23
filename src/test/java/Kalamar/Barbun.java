@@ -6,5 +6,7 @@ public class Barbun {
 
         System.out.println("hamsi");
 
+        System.out.println("kalamar");
+
     }
 }
